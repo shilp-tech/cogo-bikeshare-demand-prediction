@@ -106,5 +106,8 @@ City planners, transportation engineers, policy makers, and CoGo marketing and o
 
 ## Author
 **Shilp Patel**  
+**Adrian Tisbe**
+**Emma Allen**
+
 Master’s Student – Advanced Data Analytics  
 University of North Texas
